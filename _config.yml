@@ -29,7 +29,7 @@ twitter_username: manups4e
 github_username:  manups4e
 
 # Build settings
-remote_theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
