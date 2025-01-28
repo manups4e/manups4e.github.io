@@ -14,9 +14,6 @@ I'm a **.Net Developer** with a passion for creating innovative solutions and co
 - 🎮 Currently focused on projects for the FiveM multiplayer platform.
 - 🔧 Proficient in: C#, Java, LUA, and Actionscript for Flash and Scaleforms.
 - 🌱 Learning: Web development technologies to broaden my skill set.
-- 🌟 Creator of: 
-  - **[ScaleformUI](#):** A library for FiveM developers to easily create UI elements.
-  - **[FxEvents](#):** A tool to streamline event handling on the FiveM platform.
 
 ---
 
@@ -24,8 +21,8 @@ I'm a **.Net Developer** with a passion for creating innovative solutions and co
 
 Here are some of the key projects I've worked on:
 
-- **[ScaleformUI](#):** A robust UI library designed specifically for FiveM developers, providing a seamless experience for creating dynamic interfaces.
-- **[FxEvents](#):** A FiveM utility to simplify event management and enhance gameplay mechanics.
+- **[ScaleformUI]({% post_url 2025-01-28-scaleformui %}):** A robust UI library designed specifically for FiveM developers, providing a seamless experience for creating dynamic interfaces.
+- **[FxEvents]({% post_url 2025-01-28-fxevents %}):** A FiveM utility to simplify event management and enhance gameplay mechanics.
 
 ---
 
