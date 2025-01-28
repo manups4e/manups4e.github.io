@@ -22,7 +22,7 @@ title: Manups4e (WIP)
 email: manups4e@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Building the future of multiplayer gaming and beyond! Explore cutting-edge FiveM projects, tools like ScaleformUI and FxEvents.
-baseurl: "/manups4e.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 domain: manups4e.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: "https://manups4e.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: manups4e
