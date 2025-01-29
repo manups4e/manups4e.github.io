@@ -78,14 +78,20 @@ For further details, check out the [documentation](https://github.com/manups4e/S
 
 Here are a few screenshots to showcase ScaleformUI in action:
 
-- **NativeUI Example**  
-![ScaleformUI NativeUI](/assets/ScaleformUI_UIMenu.png)
+<ul>
+  <li>
+    <strong>NativeUI Example</strong><br><img src="/assets/ScaleformUI_UIMenu.png" alt="NativeUI Example" style="width: 50%; margin-right: 20px;">
+  </li>
+  <li>
+    <strong>Lobby Menu Example</strong><br><img src="/assets/ScaleformUI_Lobby.png" alt="Lobby Menu Example" style="width: 75%; margin-right: 20px;">
+  </li>
+  <li>
+    <strong>Pause Menu Example</strong><br><img src="/assets/ScaleformUI_Pause.png" alt="Pause Menu Example" style="width: 75%; margin-right: 20px;">
+  </li>
+</ul>
+<div style="clear: both;"></div>
 
-- **Lobby Menu Example**  
-![alt text](/assets/ScaleformUI_Lobby.png)
 
-- **Pause Menu Example**
-![alt text](/assets/ScaleformUI_Pause.png)
 
 ## Support and Contributions
 For more help, feel free to join the [**ScaleformUI Discord Server**](https://discord.gg/KKN7kRT2vM) to talk about scripting, development, and more!

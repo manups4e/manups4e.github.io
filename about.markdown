@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-Hi, I’m Leonardo Emanuele, a passionate italian **.Net Developer**, creator of tools like **ScaleformUI** and **FxEvents**, and a lifelong learner. My work focuses on crafting tools for the **FiveM multiplayer platform**, but there’s so much more to my journey than just writing code.
+My name is Leonardo Emanuele, a passionate italian **.Net Developer**, creator of tools like **ScaleformUI** and **FxEvents**, and a lifelong learner. My work focuses on crafting tools for the **FiveM multiplayer platform**, but there’s so much more to my journey than just writing code.
 
 ---
 
