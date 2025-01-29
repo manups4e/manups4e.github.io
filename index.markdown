@@ -46,5 +46,3 @@ Feel free to explore my work or get in touch for collaborations:
 - [GTA Series Arcade](https://gtaseriesarcade.com)
 
 I'm always open to discussing exciting projects or sharing insights about FiveM development!
-
----
