@@ -14,7 +14,7 @@ tags: [FiveM, Menu System, Scaleform, UI, C#]
 - You can freely use this library in your resources, but **you cannot include it in any paid resources**. If you're selling a resource that uses ScaleformUI, make sure to mention this repository in your script's requirements.
 - ScaleformUI also **requires an Assets resource** from the Github Repo Releases to function correctly.
 
-For further details, check out the [documentation](https://github.com/manups4e/ScaleformUI/wiki) (Work in Progress).
+For further details, check out the [documentation](https://manups4e.github.io/ScaleformUI/) (Work in Progress).
 
 ## Features 🔧
 
@@ -65,9 +65,6 @@ For further details, check out the [documentation](https://github.com/manups4e/S
 
 ### 16. **Timer Bars**
    - Implement **timer bars** that can be used for various gameplay mechanics or countdowns.
-
-## Looking for the documentation?
-You can find it [here](https://manups4e.github.io/ScaleformUI)
 
 ## Real-World Examples 🎮
 
