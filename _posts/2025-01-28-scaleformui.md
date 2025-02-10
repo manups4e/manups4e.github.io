@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "ScaleformUI: A Library for Creating Rockstar-like Menus"
 date: 2025-01-28
 categories: [FiveM, Development, ScaleformUI]
