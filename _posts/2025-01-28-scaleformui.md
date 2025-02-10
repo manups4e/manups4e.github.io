@@ -66,11 +66,14 @@ For further details, check out the [documentation](https://github.com/manups4e/S
 ### 16. **Timer Bars**
    - Implement **timer bars** that can be used for various gameplay mechanics or countdowns.
 
+## Looking for the documentation?
+You can find it [here](https://manups4e.github.io/ScaleformUI)
+
 ## Real-World Examples 🎮
 
 ### **GTA Series Arcade Menus**
    **Q:** *Could you provide real-world examples of menus in action?*  
-   **A:** *Absolutely! Welcome to the enthralling realm of the GTA Series Arcade, where ScaleformUI showcases its prowess on one of the most distinguished servers in the FiveM universe. Join me as we explore tangible instances of menus that exemplify the zenith of gaming immersion.*
+   **A:** *Absolutely! You can find the best examples of ScaleformUI in action by joining the amazing server of [GTA Series Arcade](https://gtaseriesarcade.com).*
 
    See the **NativeUI Example**, **Lobby Menu Example**, and **Pause Menu Example** for inspiration.
 
